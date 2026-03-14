@@ -26,7 +26,7 @@ int main() {
         printf("Harga: ");
         scanf("%f", &harga);
 
-        printf("Metode Pembayaran (cash/tf): ");
+        printf("Metode Pembayaran?(cash/tf): ");
         scanf("%s", metode);
 
         total_pemasukan += harga;
