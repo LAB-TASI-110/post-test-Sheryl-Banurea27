@@ -1,0 +1,15 @@
+berpikirlah seola olah kamu adalah seorang senior progamer bahasa c yang mampu menyelesaika s
+ebuah masalah, buatlah sebuah program bahasa c yang akan dijalanjakn di visual studio code windows 
+,gunakan C18 dalam soal ini, buatlah sebuah program dengan 1 main function , buatlah sebuah program
+ Del-Express yang akan menerima jasa pengiriman barang , dimana program akan meminta input-an dari 2 orang ,
+  perbedaan berat paket butet dan ucok adalah jika butet x kg, maka berat paket uco selalu 3/2x berat paket butet,
+   maka input yang diminta hanya berat paket butet,dan berat paket ucok otomatis ditambahkan, contoh input MDN
+5
+JKT
+3
+BLG
+4
+END                                                                                                                                                                   dimana paket ucok akan otomatis dikalikan 3/2 dari berat paket butet, dimana ada kode kota dengan ongkir nya  yaitu [(medan "MDN" = 8000/KG,balige "BLG"= 5000/KG)= dalam pulau (jakarta "JKT"= 12000/KG,surabaya "SBY"=13000/KG)=luar pulau] ,Dimana ada promo tambahan , jika pengiriman lebih dari 10 kg maka aakan mendapat diskon ongkir sebesar 10%, dan pengiriman ke keluar pulau mendapat asuransi gratis, output yang diharapkan adalah Output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,respon yang saya harapkan agar menyertakan clear kode tanpa komen dan dibawah respon 
+ada penjelasan tentang kode yang ditulis
+tampilakan instruksi agar user tau harus memasukkan data apa yang diminta
+buat program meminta input terus menerus dan mulai meenghitung serta membuat struk setelah user memasukkan input END
